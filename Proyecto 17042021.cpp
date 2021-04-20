@@ -1,6 +1,4 @@
 /*
-A
-/*
 Carnet: 1990 - 20 - 4006
 Nombre: Julio Estuardo Teleguario
 Seccion: A
